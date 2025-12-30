@@ -1,0 +1,35 @@
+body {
+  background-image: url(assets/pexels-gochrisgoxyz-1494067.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main {
+  width: 1400px;
+  margin: 0 auto;
+  padding: 0px 15px;
+  min-height: 100vh;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 6px;
+}
+
+.title {
+  color: white;
+  font-size: 100x;
+  font-weight: 600;
+}
+
+.notes {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+}
+
