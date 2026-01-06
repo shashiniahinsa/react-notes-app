@@ -16,7 +16,11 @@ A modern, intuitive notes application built with React and Vite. Create, edit, d
 - **Responsive Design**: Clean, modern UI that works on all devices
 - **Fast & Lightweight**: Built with Vite for optimal performance
 
-## 🚀 Technologies Used
+## � App Screenshot
+
+![App screenshot](src/assets/App%20screenshot.png)
+
+## �🚀 Technologies Used
 
 - **React 19.2.0** - Modern UI library with hooks
 - **Vite 7.2.4** - Next-generation frontend build tool
